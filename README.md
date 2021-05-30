@@ -15,5 +15,6 @@ require_once __DIR__ . "/checkiran.php";
 code patches within the main file of the payment module.
 
 If you have an activation problem, send a request to our Telegram or site to fix your problem.
+Thanks
 Site : Goldensource.ir
 TeleGram : https://t.me/Golden_Support

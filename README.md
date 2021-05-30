@@ -2,7 +2,7 @@ Hello , This code is for IP restriction of Iran for WHMCS modules.
 
 To use this module do the following steps :
 
-A ) Create a file named "checkiran.php" in the ("root/whmcs/modules/gateways/") folder
+A ) Create a file named "checkiran.php" in the ("root/whmcs/modules/gateways/") folder.
 B ) Copy the code above into the "checkiran.php" File.
 C ) Add the 
 " 
